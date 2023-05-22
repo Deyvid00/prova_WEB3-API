@@ -23,8 +23,8 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class Entregador extends EntidadeAuditavel  {
-  
+public class Entregador extends EntidadeAuditavel {
+
     private static final long serialVersionUID = -8037757879981787501L;
 
     @Column
