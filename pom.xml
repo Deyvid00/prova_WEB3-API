@@ -12,9 +12,9 @@
 	</parent>
 	
 	<groupId>br.com.ifpe</groupId>
-	<artifactId>oxefood-api-deyvson</artifactId>
+	<artifactId>oxefood-api-deyvid</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>oxefood-api-deyvson</name>
+	<name>oxefood-api-deyvid</name>
 	<description>Demo project for Spring Boot</description>
 	
 	<properties>
